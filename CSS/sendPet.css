@@ -1,0 +1,83 @@
+body{
+    background-color: #838b64;
+    margin: 0;
+}
+
+.header img {
+    float: left;
+    width: 100px;
+    height: 75px;
+}
+div.nav {
+    margin: .75%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+
+img.icon {
+    float: right;
+    margin-right: 2%;
+    padding: 0%;
+
+}
+img.header {
+    top: 20px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+a:hover {
+    color: aqua;
+}
+div.sent{
+    padding: 80px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 1.2em;
+    text-align: justify;
+    padding: 15px;
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    text-align: left;
+    padding: 10px;
+    margin: 0;
+    color: whitesmoke;
+}
+div.sendform{
+    background-color: #2d3424dc;
+    width: 50%;
+    padding: 15px;
+}
+h5{
+    margin: 0;
+    background-color:#b8bcba;
+    padding: 15px;
+    width: 25%;
+    font-size: 14px;
+    color: black;
+}
+h5:hover{
+    background-color:#b8bcbac3;
+    padding: 15px;
+    width: 25%;
+    font-size: 14px;
+    color: whitesmoke;
+}
