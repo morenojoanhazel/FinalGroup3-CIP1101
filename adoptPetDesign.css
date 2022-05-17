@@ -1,0 +1,130 @@
+body{
+    background-color: #e8e5de;
+    margin: 0;
+}
+.header img {
+    float: left;
+    width: 100px;
+    height: 75px;
+}
+div.nav {
+    margin: .75%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+
+img.icon {
+    float: right;
+    margin-right: 2%;
+    padding: 0%;
+
+}
+img.header {
+    top: 20px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+a:hover {
+    color: aqua;
+}
+
+div.two{
+    padding:2%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+img.adopt{
+    display: inline;
+    height: 350px;
+    width: 45%;
+    vertical-align: middle;
+}
+div.three{
+    margin: 75px;
+}
+h1{
+    display: inline;
+    padding: 25px;
+    vertical-align: middle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.howto{
+    width: 28%;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 0 25px ;
+    display: inline-block;
+    padding: 10px;
+}
+p{
+    font-size: 1.3em;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5{
+    text-align: center;
+    background-color: #838b64;
+    display: inline-block;
+    padding: 10px;
+}
+
+div.one{
+    margin: 10px 0;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  footer {
+    background-color: #838b64;
+    margin: 10px auto;
+
+}
+footer h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+footer > div,
+footer > .divider {
+    display: inline-block;
+    vertical-align: middle;   
+}
+footer > div {
+    padding: 1%;
+    text-align: center;
+    width:30%;
+}
+
+footer > .divider {
+    font-style: normal;
+    height: 240px;
+    border: 1px solid #888;
+    -webkit-box-shadow: 1px 2px 1px #ccc;
+    box-shadow: 1px 2px 1px #ccc;
+}
+div.contactinfo{
+    text-align: center;
+}
+img.facebook{
+    width: 50px; 
+    height:50px; 
+    opacity: 0.75;
+    border-radius: 5px;
+    display: inline;
+}
